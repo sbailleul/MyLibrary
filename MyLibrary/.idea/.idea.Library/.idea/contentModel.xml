@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\sbailleu\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\sbailleu\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\sbailleu\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\sbailleu\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Library.1301087537.00" t="ExcludeRecursive" />
+    <e p="C:\Users\sbailleu\Documents\Entrainement\3. C#\1. ASP .Net Core\DocumentingAspNetCoreApisWithOpenAPI\Starter files" t="IncludeFlat">
+      <e p="Library.API" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="Attributes" t="Include">
+          <e p="RequestHeaderMatchesMediaTypeAttribute.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Contexts" t="Include">
+          <e p="LibraryContext.cs" t="Include" />
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="AuthorsController.cs" t="Include" />
+          <e p="BooksController.cs" t="Include" />
+        </e>
+        <e p="Entities" t="Include">
+          <e p="Author.cs" t="Include" />
+          <e p="Book.cs" t="Include" />
+        </e>
+        <e p="IListExtensions.cs" t="Include" />
+        <e p="libman.json" t="Include" />
+        <e p="Library.API.csproj" t="IncludeRecursive" />
+        <e p="Migrations" t="Include">
+          <e p="InitialMigration.cs" t="Include" />
+          <e p="InitialMigration.Designer.cs" t="Include" />
+          <e p="LibraryContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Author.cs" t="Include" />
+          <e p="AuthorForUpdate.cs" t="Include" />
+          <e p="Book.cs" t="Include" />
+          <e p="BookForCreation.cs" t="Include" />
+          <e p="BookForCreationWithAmountOfPages.cs" t="Include" />
+          <e p="BookWithConcatenatedAuthorName.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Library.API.AssemblyInfo.cs" t="Include" />
+              <e p="Library.API.RazorAssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Profiles" t="Include">
+          <e p="AuthorProfile.cs" t="Include" />
+          <e p="BookProfile.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="AuthorRepository.cs" t="Include" />
+          <e p="BookRepository.cs" t="Include" />
+          <e p="IAuthorRepository.cs" t="Include" />
+          <e p="IBookRepository.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="Library.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

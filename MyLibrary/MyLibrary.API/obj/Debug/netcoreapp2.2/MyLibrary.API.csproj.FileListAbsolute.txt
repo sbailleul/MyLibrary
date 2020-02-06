@@ -1,0 +1,17 @@
+C:\Users\sbailleu\Documents\Entrainement\3. C#\1. ASP .Net Core\MyLibrary\MyLibrary.API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\sbailleu\Documents\Entrainement\3. C#\1. ASP .Net Core\MyLibrary\MyLibrary.API\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\sbailleu\Documents\Entrainement\3. C#\1. ASP .Net Core\MyLibrary\MyLibrary.API\bin\Debug\netcoreapp2.2\libman.json
+C:\Users\sbailleu\Documents\Entrainement\3. C#\1. ASP .Net Core\MyLibrary\MyLibrary.API\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\sbailleu\Documents\Entrainement\3. C#\1. ASP .Net Core\MyLibrary\MyLibrary.API\bin\Debug\netcoreapp2.2\MyLibrary.API.deps.json
+C:\Users\sbailleu\Documents\Entrainement\3. C#\1. ASP .Net Core\MyLibrary\MyLibrary.API\bin\Debug\netcoreapp2.2\MyLibrary.API.runtimeconfig.json
+C:\Users\sbailleu\Documents\Entrainement\3. C#\1. ASP .Net Core\MyLibrary\MyLibrary.API\bin\Debug\netcoreapp2.2\MyLibrary.API.runtimeconfig.dev.json
+C:\Users\sbailleu\Documents\Entrainement\3. C#\1. ASP .Net Core\MyLibrary\MyLibrary.API\bin\Debug\netcoreapp2.2\MyLibrary.API.dll
+C:\Users\sbailleu\Documents\Entrainement\3. C#\1. ASP .Net Core\MyLibrary\MyLibrary.API\bin\Debug\netcoreapp2.2\MyLibrary.API.pdb
+C:\Users\sbailleu\Documents\Entrainement\3. C#\1. ASP .Net Core\MyLibrary\MyLibrary.API\obj\Debug\netcoreapp2.2\MyLibrary.API.csprojAssemblyReference.cache
+C:\Users\sbailleu\Documents\Entrainement\3. C#\1. ASP .Net Core\MyLibrary\MyLibrary.API\obj\Debug\netcoreapp2.2\MyLibrary.API.RazorAssemblyInfo.cache
+C:\Users\sbailleu\Documents\Entrainement\3. C#\1. ASP .Net Core\MyLibrary\MyLibrary.API\obj\Debug\netcoreapp2.2\MyLibrary.API.RazorAssemblyInfo.cs
+C:\Users\sbailleu\Documents\Entrainement\3. C#\1. ASP .Net Core\MyLibrary\MyLibrary.API\obj\Debug\netcoreapp2.2\MyLibrary.API.AssemblyInfoInputs.cache
+C:\Users\sbailleu\Documents\Entrainement\3. C#\1. ASP .Net Core\MyLibrary\MyLibrary.API\obj\Debug\netcoreapp2.2\MyLibrary.API.AssemblyInfo.cs
+C:\Users\sbailleu\Documents\Entrainement\3. C#\1. ASP .Net Core\MyLibrary\MyLibrary.API\obj\Debug\netcoreapp2.2\MyLibrary.API.RazorTargetAssemblyInfo.cache
+C:\Users\sbailleu\Documents\Entrainement\3. C#\1. ASP .Net Core\MyLibrary\MyLibrary.API\obj\Debug\netcoreapp2.2\MyLibrary.API.dll
+C:\Users\sbailleu\Documents\Entrainement\3. C#\1. ASP .Net Core\MyLibrary\MyLibrary.API\obj\Debug\netcoreapp2.2\MyLibrary.API.pdb
